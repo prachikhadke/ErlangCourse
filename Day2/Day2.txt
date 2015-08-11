@@ -1,0 +1,13 @@
+I keep on getting the following error if I don't export helper methods:
+
+=ERROR REPORT==== 4-Aug-2015::12:30:06 ===
+Error in process <0.4933.4> with exit value:
+{undef,[{ring,loop,[<0.4405.4>],[]}]}
+
+Why do i have to export all functions in my module? Can the helper functions not be exported?
+
+
+s - > starts a new shell
+j -> jobs running in the shell
+c -> connect 
+
