@@ -1,0 +1,9 @@
+stuff goes bad: erlang in anger
+
+process hibernation -> compacts process and when it's woken up, it's uncompacted.
+
+
+make-shell
+svr_db
+
+projects/inaka/cloudant-training/
